@@ -1,5 +1,5 @@
 # VSSS
-The source code of Vine Spread for Superpixel Segmentation (https://ieeexplore.ieee.org/document/10015675)
+The source code of **Vine Spread for Superpixel Segmentation** (https://ieeexplore.ieee.org/document/10015675)
 
 ![example](https://github.com/zach-pei/VSSS/blob/main/pic/vsss-detail-twigs.png)
 
