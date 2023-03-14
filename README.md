@@ -1,6 +1,7 @@
 # VSSS
 The source code of Vine spread for Superpixel Segmentation
 
+![example](https://github.com/zach-pei/VSSS/blob/main/pic/vsss-detail-twigs.png)
 
 # Get Started
 
